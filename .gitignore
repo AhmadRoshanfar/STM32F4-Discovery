@@ -1,6 +1,0 @@
-# Ignore everything
-*
-
-# But not these files...
-!.gitignore
-!01-Turn_on_LEDs_CMSIS
